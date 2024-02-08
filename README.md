@@ -1,4 +1,4 @@
-# Spotify Clone con Astro
+# Plantilla Spotify 
 
 ## Descripción
 
