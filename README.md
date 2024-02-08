@@ -29,7 +29,3 @@ Este repositorio contiene un clon del popular servicio de música Spotify constr
 
 4. Ejecuta el proyecto:
    `npm run dev o pnpm run dev`
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
