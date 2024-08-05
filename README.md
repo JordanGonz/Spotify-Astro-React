@@ -29,3 +29,6 @@ Este repositorio contiene un clon del popular servicio de música Spotify constr
 
 4. Ejecuta el proyecto:
    `npm run dev o pnpm run dev`
+
+5. Instalacion de librerias
+      `pnpm i`
